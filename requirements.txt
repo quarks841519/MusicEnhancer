@@ -1,0 +1,9 @@
+demucs
+pydub
+simpleaudio
+tk
+ffmpeg-python
+audiosr
+torchaudio 
+torch  
+matplotlib
